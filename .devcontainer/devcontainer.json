@@ -1,5 +1,9 @@
 {
     "name": "Python Project",
     "dockerFile": "Dockerfile",
-    "remoteUser": "vscode"
+    "features": {
+        "git": {
+            "version": "latest"
+        }
+    }
 }
